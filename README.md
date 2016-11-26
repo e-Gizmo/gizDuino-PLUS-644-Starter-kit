@@ -7,5 +7,6 @@ gizDuino PLUS (ATmega644P) Starter Kit
 -------------
 
 ![Imgur](http://i.imgur.com/tz6ztas.png)
+![Imgur](http://i.imgur.com/zHo76la.png)
 
 
