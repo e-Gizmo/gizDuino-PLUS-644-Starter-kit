@@ -34,7 +34,7 @@ void loop()
 {
 int potValue = analogRead(0);
 
-potValue = map (potValue, 0, 1023, 10, 180);
+potValue = map (potValue, 0, 1023, 10, 170);
 myservo.write(potValue);
 
 
